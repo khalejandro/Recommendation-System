@@ -85,4 +85,4 @@ recommendations.
 ## 📚 Acknowledgements
 
 Dataset provided by **Yelp Open Dataset** for educational and research
-purposes.
+purposes. [Dataset](https://drive.google.com/file/d/17wZtuKFk_gf-RLwDTcGxvKa_FIDt9CbB/view)
